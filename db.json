@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "text": "farah",
+      "type": "Horror",
+      "author": "Mohamed",
+      "des": "New Horror Book ",
+      "publishDate": "2020",
+      "reminder": false,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "farah tawfik",
+      "email": "farahtawfik14@gmail.com",
+      "number": "+201011263303",
+      "id": 2
+    },
+    {
+      "name": "farah tawfik",
+      "email": "farahtawfik14@gmail.com",
+      "number": "+201011263303",
+      "id": 3
+    },
+    {
+      "name": "farah tawfik",
+      "email": "farahtawfik14@gmail.com",
+      "number": "+201011263303",
+      "id": 4
+    },
+    {
+      "name": "farah tawfik",
+      "email": "farahtawfik14@gmail.com",
+      "number": "+201011263303",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
